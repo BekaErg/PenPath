@@ -17,5 +17,5 @@ PenPath in many ways acts like android.graphics.Path, but the methods lineTo and
 ## Instalation
 You can install the package through Gradle by adding:
 ```
-implementation 'com.github.BekaErg:PenPath:SNAPSHOT'
+implementation 'com.github.BekaErg:PenPath:v1.0.0'
 ```
