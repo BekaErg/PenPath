@@ -1,5 +1,5 @@
 # PenPath
-PenPath class is designed to be used to draw paths with variable thickness. It creates an object of android.graphics.Path and should be drawn with Paint.styles.FILL type paint.
+PenPath class is designed to be used to draw paths with variable thickness. It creates an object of android.graphics.Path and should be drawn with Paint.Style.FILL type paint.
 
 ## Features
 - Smoothing by averaging last few inputs
