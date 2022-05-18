@@ -7,7 +7,7 @@ android {
     compileSdk 32
 
     defaultConfig {
-        applicationId "com.jarti.penpath"
+        applicationId "jrt.bekaerg.penpath"
         minSdk 23
         targetSdk 32
         versionCode 1
